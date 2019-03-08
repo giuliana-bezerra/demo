@@ -1,14 +1,12 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "id": "1",
+    "nome": "Clementina DuBuque",
+    "username": "Moriah.Stanton",
+    "email": "Rey.Padberg@karina.biz",
+    "endereco": "Rua Kattie Turnpike, Suite 198, cidade Lebsackbury, zipcode 31428-2261",
+    "telefone": "024-648-3804",
+    "website": "ambrose.net",
+    "empresa": "Hoeger LLC - Centralized empowering task-force"
   }
-}
+]
