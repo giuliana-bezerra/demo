@@ -1,33 +1,4 @@
 {
-  "posts":[
-    {
-      "id":4,
-      "comentario":"Comentário 1",
-      "nome":"Fulano"
-    },
-    {
-      "id":5,
-      "comentario":"Comentário 2",
-      "nome":"Sicrano"
-    },
-    {
-      "id":6,
-      "comentario":"Comentário 3",
-      "nome":"Beltrano"
-    }
-  ],
-  "comments":[
-    {
-      "id":1,
-      "body":"some comment1",
-      "postId":1
-    },
-    {
-      "id":2,
-      "body":"some comment2",
-      "postId":1
-    }
-  ],
   "profile":[
     {
       "id":"1",
